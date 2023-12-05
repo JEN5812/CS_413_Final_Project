@@ -26,8 +26,11 @@ Overall the game development was done primarily through Discord. Kenzie N. held 
 
 ## Player Responsibility
 Kenzie Norris - Player Movement, Easter Level, Particle Systems, Level Graphic Design, Boss AI, Enemy AI
+
 Robin Pace - Player Preferences, Valentine Level, Player Health Bar, Time Trial/Completion, Level Change and Management, Weapon Management
+
 Sam Asher - Platform Design, Halloween Level, Boss Health Bar, Level Design
+
 Jennie Butch - UI Design, Weapon Management, Christmas Level, Boss Design
 
 
