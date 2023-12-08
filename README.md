@@ -4,7 +4,7 @@
 
 [GITHUB PAGE](https://jen5812.github.io/CS_413_Final_Project/)
 
-[YOUTUBE VIDEO](https://youtu.be/p3w5AYf25DI)
+[YOUTUBE VIDEO](https://youtu.be/HVaH7KSOEAM)
 
 ## Overview
 Overall the game development was done primarily through Discord. Kenzie N. held what we defined as the 'Master Version'. Every new item implemented would be sent via packages. In the folder "Discord Packages" will be a set of examples of said packages that were sent to Kenzie to be implemented into the Master Version. The following shows screenshots of communication, and although  we don't have much text communication, one of the screenshots below is the 11-hour call that occurred with final bug fixes and implementation.
